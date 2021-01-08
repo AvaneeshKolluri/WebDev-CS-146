@@ -1,0 +1,76 @@
+body{
+	background-color: gray;
+}
+
+.content{
+	background-color: white;
+	margin: 16px auto;
+	padding: 16px 0px;
+	box-shadow: 0px 0px 4px black;
+	border-radius: 4px;
+	width: 600px;
+}
+
+table {
+	border-collapse: collapse;
+	width:600px;
+}
+
+th {
+	width: 100px;
+	border-bottom: thin solid #CCCCCC;
+}
+
+td{
+	border-bottom: thin solid #CCCCCC;
+}
+
+.event {
+	background-color: green;
+	color: white;
+	border-radius: 6px;	
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.big{
+	font-size: 14px;
+}
+
+.small{
+	font-size: 12px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+tr{
+	border-bottom: thin solid #CCCCCC;
+}
+
+.bullet{
+	list-style-type: square;
+}
+
+.right{
+	text-align: right;
+}
+
+img.size{
+	height: 140px;
+	width: 140px;
+}
